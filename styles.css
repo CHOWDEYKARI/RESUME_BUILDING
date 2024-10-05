@@ -1,0 +1,94 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    color: rgb(0, 0, 0);
+    border: 2px solid black;
+    font-size: 18px;
+}
+
+.contact {
+    text-decoration: none;
+    color: black;
+
+}
+
+.project-title {
+    margin-bottom: 0;
+
+}
+
+.projectlink {
+    text-decoration-line: none;
+    font-size: 15px;
+    margin-top: 0;
+}
+
+.info {
+    list-style-type: none;
+}
+
+.my-picture {
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    margin: 0 10px;
+    background-color: rgb(205, 236, 255);
+}
+
+.myimg {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+
+}
+
+.personal-info {
+    display: flex;
+    align-items: center;
+    border: 1px solid rgb(227, 227, 227);
+    background-color: rgb(255, 228, 196);
+    margin: 0 10px;
+}
+
+main {
+    margin: 0 10px;
+}
+
+h3 {
+    background-color: rgb(205, 236, 255);
+    padding-left : 10px;
+}
+
+p {
+    margin: 0 10px;
+}
+
+table,
+th,
+td {
+    border: 2px solid black;
+}
+.section {
+    margin: 0;
+    padding: 0;
+}
+.section3a, .section3b {
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 0;
+    padding-top: 0;      
+}
+.section3a h4, .section3b h4{
+    background-color: rgb(205, 236, 255);
+    padding: 5px;
+}
+
+.section3a {
+    margin-right: 30px;
+}
+
+.sub {
+    
+    
+}
